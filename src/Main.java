@@ -10,5 +10,6 @@ public class Main {
         System.out.println("sixth modify main.java");
         System.out.println("local modify");
         System.out.println("remote modify");
+        System.out.println("second remote modify");
     }
 }
