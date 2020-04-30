@@ -7,6 +7,7 @@ public class Main {
         System.out.println("second remote modify");
         System.out.println("third local modify");
         System.out.println("third remote modify");
+        System.out.println("fourth remote modify");
         System.out.println("fourth local modify");
     }
 }
